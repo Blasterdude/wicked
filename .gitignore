@@ -1,0 +1,6 @@
+bin/*
+*.zip
+*.jar
+/bin/
+*.metadata
+.classpath
