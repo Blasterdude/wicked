@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Flights>
+	<Flight Airplane="737" FlightTime="97" Number="6362">
+		<Departure>
+			<Code>CVG</Code>
+			<Time>2017 May 10 00:54 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 02:31 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$261.24">11</FirstClass>
+			<Coach Price="$73.15">18</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="97" Number="6374">
+		<Departure>
+			<Code>CVG</Code>
+			<Time>2017 May 10 08:25 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 10:02 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$262.36">3</FirstClass>
+			<Coach Price="$73.46">48</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="139" Number="6391">
+		<Departure>
+			<Code>CVG</Code>
+			<Time>2017 May 10 17:12 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 19:31 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$101.47">14</FirstClass>
+			<Coach Price="$52.76">54</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="111" Number="7149">
+		<Departure>
+			<Code>CLE</Code>
+			<Time>2017 May 09 23:25 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 01:16 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$106.16">6</FirstClass>
+			<Coach Price="$20.97">360</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="81" Number="7158">
+		<Departure>
+			<Code>CLE</Code>
+			<Time>2017 May 10 04:39 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 06:00 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$254.15">8</FirstClass>
+			<Coach Price="$74.39">45</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="68" Number="7166">
+		<Departure>
+			<Code>CLE</Code>
+			<Time>2017 May 10 08:37 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 09:45 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$159.99">7</FirstClass>
+			<Coach Price="$30.12">68</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="101" Number="7973">
+		<Departure>
+			<Code>CMH</Code>
+			<Time>2017 May 10 14:47 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 16:28 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$319.62">19</FirstClass>
+			<Coach Price="$93.55">31</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A340" FlightTime="83" Number="10324">
+		<Departure>
+			<Code>DTW</Code>
+			<Time>2017 May 10 13:35 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 14:58 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$197.40">14</FirstClass>
+			<Coach Price="$23.57">238</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="22" Number="22788">
+		<Departure>
+			<Code>JFK</Code>
+			<Time>2017 May 09 23:50 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 00:12 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$13.72">3</FirstClass>
+			<Coach Price="$4.25">168</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A320" FlightTime="24" Number="23552">
+		<Departure>
+			<Code>LGA</Code>
+			<Time>2017 May 10 03:02 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 03:26 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$151.49">9</FirstClass>
+			<Coach Price="$14.66">91</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="36" Number="23563">
+		<Departure>
+			<Code>LGA</Code>
+			<Time>2017 May 10 07:56 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 08:32 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$113.50">10</FirstClass>
+			<Coach Price="$33.22">30</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="30" Number="23593">
+		<Departure>
+			<Code>LGA</Code>
+			<Time>2017 May 10 22:17 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 22:47 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$80.50">24</FirstClass>
+			<Coach Price="$22.54">72</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="25" Number="24333">
+		<Departure>
+			<Code>EWR</Code>
+			<Time>2017 May 10 00:01 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 00:26 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$18.32">58</FirstClass>
+			<Coach Price="$9.53">173</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="24" Number="24341">
+		<Departure>
+			<Code>EWR</Code>
+			<Time>2017 May 10 03:30 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 03:54 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$14.75">46</FirstClass>
+			<Coach Price="$4.57">396</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="41" Number="27410">
+		<Departure>
+			<Code>PHL</Code>
+			<Time>2017 May 10 02:22 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 03:03 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$24.19">56</FirstClass>
+			<Coach Price="$7.25">130</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="35" Number="27425">
+		<Departure>
+			<Code>PHL</Code>
+			<Time>2017 May 10 12:52 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 13:27 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$20.54">22</FirstClass>
+			<Coach Price="$6.16">164</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="41" Number="27429">
+		<Departure>
+			<Code>PHL</Code>
+			<Time>2017 May 10 15:58 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 16:39 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$24.97">118</FirstClass>
+			<Coach Price="$7.74">166</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="34" Number="27441">
+		<Departure>
+			<Code>PHL</Code>
+			<Time>2017 May 10 21:41 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 22:15 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$60.96">7</FirstClass>
+			<Coach Price="$6.83">40</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="93" Number="28928">
+		<Departure>
+			<Code>PIT</Code>
+			<Time>2017 May 09 22:36 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 00:09 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$55.10">112</FirstClass>
+			<Coach Price="$16.52">367</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="83" Number="30460">
+		<Departure>
+			<Code>RDU</Code>
+			<Time>2017 May 10 06:00 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 07:23 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$262.20">12</FirstClass>
+			<Coach Price="$76.74">46</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="76" Number="30483">
+		<Departure>
+			<Code>RDU</Code>
+			<Time>2017 May 10 16:56 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 18:12 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$44.80">53</FirstClass>
+			<Coach Price="$13.43">93</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="100" Number="30490">
+		<Departure>
+			<Code>RDU</Code>
+			<Time>2017 May 10 21:44 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 23:24 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$316.65">12</FirstClass>
+			<Coach Price="$38.00">5</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="64" Number="38939">
+		<Departure>
+			<Code>IAD</Code>
+			<Time>2017 May 10 00:18 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 01:22 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$46.52">9</FirstClass>
+			<Coach Price="$24.19">144</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A320" FlightTime="79" Number="39725">
+		<Departure>
+			<Code>DCA</Code>
+			<Time>2017 May 10 17:33 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BOS</Code>
+			<Time>2017 May 10 18:52 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$497.09">0</FirstClass>
+			<Coach Price="$48.11">4</Coach>
+		</Seating>
+	</Flight>
+</Flights>
